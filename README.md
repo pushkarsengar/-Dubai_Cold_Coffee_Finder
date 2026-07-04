@@ -13,3 +13,7 @@ A real-time Streamlit web application designed to locate, filter, and analyze th
 * **Smart Filters:** Search by name, spot type, minimum rating, and operational status (Open/Closed).
 
 ## 🛠️ Tech Stack & Skills Used
+
+* **Frontend UI:** Streamlit
+* **Data Handling:** Pandas, NumPy
+* **Geospatial Intelligence:** Folium, Streamlit-Folium, Geopy (Geodesic Distance)
