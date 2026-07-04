@@ -11,3 +11,5 @@ A real-time Streamlit web application designed to locate, filter, and analyze th
   * 📊 `Analytics` - Deep market analysis with interactive charts.
   * 🏆 `Leaderboard` - Top-rated coffee venues.
 * **Smart Filters:** Search by name, spot type, minimum rating, and operational status (Open/Closed).
+
+## 🛠️ Tech Stack & Skills Used
